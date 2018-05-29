@@ -17,6 +17,14 @@ Quantity of social media platforms users is rising from day to day and online di
 ## Existing work
 [Research paper](https://arxiv.org/abs/1610.08914) containing documentation on the data collection and modeling methodology.
 
+## Roadmap
+*Milestone 1*
+Building a classifier based on fasttext for personal attacks
+
+*Milestone 2*
+- Model tune
+- Use of classifier on the [Wikipedia Talk Corpus](https://figshare.com/articles/Wikipedia_Talk_Corpus/4264973) 
+
 ## Resources
 
 For training and evaluation of created model were used Wikipedia Talk project dataset. Wikipedia Talk project release includes:
