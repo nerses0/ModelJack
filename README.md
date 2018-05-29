@@ -1,4 +1,2 @@
 # ModelJack
 
-Author
-Nerses Nersesyan
