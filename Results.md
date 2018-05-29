@@ -4,11 +4,12 @@ All dataset contains 115864 examples splitted into train, validation and test sp
 
 Created model generates following results
 
-| On validation set | On validation set|
+|Validation set|Training set|
+|--------------|------------|
+|P@1	0.946|P@1	0.944|
+|R@1	0.946|R@1	0.944|
+|Number of examples: 23160|Number of examples: 23178|
 
-P@1	0.946                     P@1	0.944
-R@1	0.946                     R@1	0.944
-Number of examples: 23160     Number of examples: 23178
 
 ## Use of classifier
 
