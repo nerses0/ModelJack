@@ -13,6 +13,8 @@ Created model generates following results
 
 ## Use of classifier
 
-Using classifier on randomly selected dataset from [Wikipedia Talk Corpus](https://figshare.com/articles/Wikipedia_Talk_Corpus/4264973) leads to following results
+Using classifier on randomly selected dataset from [Wikipedia Talk Corpus](https://figshare.com/articles/Wikipedia_Talk_Corpus/4264973) leads to following results shown in Fig.1
+
+![Fig.1]()
 
 Attacks are far more prevalent in the user talk namespace.
