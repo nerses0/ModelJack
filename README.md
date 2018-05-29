@@ -5,11 +5,13 @@ Author: Nerses Nersesyan
 ## Abstract
 
 
-This notebook gives an introduction to working with the various data sets in Wikipedia Talk project on Figshare. The release includes:
+This project shows how to work with the various data sets in Wikipedia Talk project on Figshare using [fasttext](https://fasttext.cc/). Wikipedia Talk project release includes:
 1. large historical corpus of discussion comments on Wikipedia talk pages
 2. sample of over 100k comments with human labels for whether the comment contains a personal attack
 3. sample of over 100k comments with human labels for whether the comment has aggressive tone
 
-Please refer to our wiki for documentation of the schema of each data set and our research paper for documentation on the data collection and modeling methodology.
+Please refer to [wiki](https://meta.wikimedia.org/wiki/Research:Detox/Data_Release) for documentation of the schema of each data set and the [research paper](https://arxiv.org/abs/1610.08914) for documentation on the data collection and modeling methodology.
 
-In this notebook we show how to build a simple classifier for detecting personal attacks and apply the classifier to a random sample of the comment corpus to see whether discussions on user pages have more personal attacks than discussion on article pages.
+It is important to note that there is excisting [API](https://www.perspectiveapi.com/#/) demo version created by [Jigsaw](https://jigsaw.google.com/). More detailed information about this project can be found [here](https://conversationai.github.io/)
+
+In this notebook we show how to build a simple classifier using fasttext for detecting personal attacks and apply the classifier to a random sample of the comment corpus to see whether discussions on user pages have more personal attacks than discussion on article pages.
