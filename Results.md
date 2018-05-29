@@ -15,6 +15,6 @@ Created model generates following results
 
 Using classifier on randomly selected dataset from [Wikipedia Talk Corpus](https://figshare.com/articles/Wikipedia_Talk_Corpus/4264973) leads to following results shown in Fig.1
 
-![Fig.1]()
+![Fig.1](https://drive.google.com/file/d/19Sdg7nUE3fi--xVox7ednHISSz69XJlk/view?usp=sharing)
 
 Attacks are far more prevalent in the user talk namespace.
