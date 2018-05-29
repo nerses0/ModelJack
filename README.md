@@ -18,6 +18,9 @@ Quantity of social media platforms users is rising from day to day and online di
 [Research paper](https://arxiv.org/abs/1610.08914) containing documentation on the data collection and modeling methodology.
 
 ## Roadmap
+*Deliverable*
+Create a classifier using fastext with accuracy higher than 90%.
+
 *Milestone 1*
 Building a classifier based on fasttext for personal attacks
 
