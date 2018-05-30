@@ -19,9 +19,11 @@ Quantity of social media platforms users is rising from day to day and online di
 
 ## Roadmap
 *Deliverable*
+
 Create a classifier using fastext with accuracy higher than 90%.
 
 *Milestone 1*
+
 Building a classifier based on fasttext for personal attacks
 
 *Milestone 2*
