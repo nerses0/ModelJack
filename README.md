@@ -14,9 +14,17 @@ Detecting and reducing toxic comments and personal attacks is very important for
 
 Can we emulate it so that developers can integrate this functionality into their platforms today?
 
+#### Running
+
+Download the data to this directory and run:
+```
+python ft_cls.py
+```
+
 #### Results
 
 See [Results](Results.md)
+
 
 #### Datasets
 
